@@ -24,5 +24,5 @@ Ademais, deslumbro-me com a área de automação e controle, especialmente no se
   - Java;
 - ✔ Estudo independente de Matemática e Física
 
-[![João Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Victor17&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<img align='right' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=Dimidium%20facti%20qui%20coepit%20habet:%20sapere%20aude&author=Immanuel%20Kant" width="515px"/>
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=Joao-Victor17&show_icons=true&theme=dark" width="515px"/>
+<img align='center' src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&quote=Dimidium%20facti%20qui%20coepit%20habet:%20sapere%20aude&author=Immanuel%20Kant" width="215px" />
