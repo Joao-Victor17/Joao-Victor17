@@ -11,17 +11,18 @@ Ademais, deslumbro-me com a área de automação e controle, especialmente no se
 ### Conquistas:
 - ⚔️ Aspirante a Oficial da Reserva do Exército Brasileiro | NPOR/24
 - 🖥️ Estagiário de Suporte Técnico na Polisystem | Mai/25 - hoje 
-- ⏳ Engenharia de computação (UNIJORGE) | Semestre: 6/10
-- ⏳ Automação Industrial (IFBA) | Semestre: 3/4
+- ⏳ Engenharia de computação (UNIJORGE) | Semestre: 7/10
+- ⏳ Automação Industrial (IFBA) | Semestre: 4/4
 
 ### 🛠️ Principais Competências e Interesses
 - ✔ Suporte técnico em computadores
 - ✔ Conhecimentos práticos em automação industrial (sensores, CLPs, sistemas elétricos e robótica)
 - ✔ Programação e fundamentos de algoritmos:
   - C/C++;
-  - Next.js;
+  - Rust;
   - Python;
-  - Java;
+  - NestJS;
+  - React;
 - ✔ Estudo independente de Matemática e Física
 
 <img src="https://github-readme-stats.vercel.app/api?username=Joao-Victor17&show_icons=true&theme=dark" width="515px"/>
