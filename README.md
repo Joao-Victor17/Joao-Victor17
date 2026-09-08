@@ -1,49 +1,8 @@
-<!-- ============================================================ -->
-<!-- 1. TERMINAL IBN 5100 (SVG DINÂMICO EMBUTIDO VIA DATA URI)   -->
-<!-- Demonstra como rodar CSS moderno, scanlines e animação        -->
-<!-- ============================================================ -->
-
-<div style="max-width: 850px; margin: 0 auto;">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 180" width="100%">
-    <defs>
-      <linearGradient id="crtGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-        <stop offset="0%" stop-color="#121512"/>
-        <stop offset="100%" stop-color="#080a08"/>
-      </linearGradient>
-      <pattern id="scanlines" width="100" height="4" patternUnits="userSpaceOnUse">
-        <line x1="0" y1="0" x2="100" y2="0" stroke="#000" stroke-width="1.2" opacity="0.35"/>
-      </pattern>
-    </defs>
-    <style>
-      @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
-      @keyframes phosphorGlow {
-        0% { filter: drop-shadow(0 0 2px #39ff14); }
-        50% { filter: drop-shadow(0 0 6px #39ff14); }
-        100% { filter: drop-shadow(0 0 2px #39ff14); }
-      }
-      .crt-bg { fill: url(#crtGrad); stroke: #2d382d; stroke-width: 2; rx: 8; }
-      .term-text { font-family: 'Courier New', monospace; font-size: 14px; fill: #39ff14; animation: phosphorGlow 3s infinite; }
-      .cursor { fill: #39ff14; animation: blink 0.8s infinite; }
-      .accent { fill: #ffaa00; font-weight: bold; }
-    </style>
-    <rect width="100%" height="100%" class="crt-bg"/>
-    <rect width="100%" height="100%" fill="url(#scanlines)" pointer-events="none"/>
-
-    <text x="25" y="38" class="term-text">IBN-5100 [ROUTINE: INITIALIZING LAB BOOTSTRAP...]</text>
-    <text x="25" y="68" class="term-text">OPERATOR: <tspan class="accent">LAB MEMBER 001</tspan> | SYSTEM STATUS: ONLINE</text>
-    <text x="25" y="98" class="term-text">CURRENT DIRECTIVE: Full-stack Development &amp; Architecture</text>
-    <text x="25" y="128" class="term-text">CONNECTED TO SERN ARCHIVE... DECRYPTION KEY ACCEPTED</text>
-    <text x="25" y="155" class="term-text">EXECUTE: <tspan fill="#ffffff">./explore_worldlines.sh</tspan></text>
-    <rect x="280" y="142" width="9" height="15" class="cursor"/>
-  </svg>
+<div align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Terminal IBN 5100" />
 </div>
 
 <br>
-
-<!-- ============================================================ -->
-<!-- 2. LAYOUT LADO A LADO: BIO E MEDIDOR DE DIVERGÊNCIA (TABELA) -->
-<!-- Tabelas são usadas como grid para contornar a falta de CSS   -->
-<!-- ============================================================ -->
 
 <table>
   <tr>
@@ -63,36 +22,12 @@
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- Medidor de Divergência Simulado em SVG (Nixie Display) -->
-      <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 260 140' width='100%'>
-        <style>
-          @keyframes nixieFlicker {
-            0%25 { opacity: 0.95; } 50%25 { opacity: 0.85; } 70%25 { opacity: 1; } 100%25 { opacity: 0.92; }
-          }
-          .meter-box { fill: %231a1510; stroke: %238c531b; stroke-width: 2; rx: 6; }
-          .label { font-family: monospace; font-size: 10px; fill: %23a87944; letter-spacing: 1.5px; }
-          .nixie-digits {
-            font-family: 'Courier New', monospace; font-size: 26px; font-weight: bold;
-            fill: %23ff7700; text-shadow: 0 0 6px %23ff5500, 0 0 12px %23ff2200;
-            animation: nixieFlicker 0.15s infinite alternate;
-          }
-        </style>
-        <rect width='100%25' height='100%25' class='meter-box'/>
-        <text x='50%25' y='32' text-anchor='middle' class='label'>DIVERGENCE METER</text>
-        <rect x='15' y='45' width='230' height='55' rx='4' fill='%23000' stroke='%2338240f'/>
-        <text x='50%25' y='83' text-anchor='middle' class='nixie-digits'>1.048596%</text>
-        <text x='50%25' y='122' text-anchor='middle' class='label'>STATUS: STABLE</text>
-      </svg>" alt="Divergence Meter" />
+      <img src="./assets/divergence.svg" width="100%" alt="Divergence Meter" />
     </td>
   </tr>
 </table>
 
 ---
-
-<!-- ============================================================ -->
-<!-- 3. SELETOR DE LINHAS DO TEMPO (ACCORDION NATIVO COM NAME)     -->
-<!-- O atributo 'name' força apenas uma aba aberta de cada vez     -->
-<!-- ============================================================ -->
 
 ### ⏱️ Seletor de Linha do Tempo (World Lines)
 
@@ -137,22 +72,6 @@
 
 ---
 
-<!-- ============================================================ -->
-<!-- 4. SUBMISSÃO DE D-MAIL VIA ISSUE TEMPLATE (SIMULAÇÃO)        -->
-<!-- Links pré-parametrizados que abrem telas estruturadas         -->
-<!-- ============================================================ -->
-
 ### 📱 Future Gadget Lab - Transmissão de D-Mail
 
 Envie uma mensagem curta que atravessará o canal temporal do repositório:
-
-[PhoneWave (name subject to change) - Ready for input]
-Limite por pacote: 36 bytes (caracteres).
-
-<a href="https://github.com/Joao-Victor17/Joao-Victor17/issues/new?title=%5BD-MAIL%5D+Transmiss%C3%A3o+Temporal&body=%23%23+Destino%3A+Passado%0A%23%23+Linha+Alvo%3A+Alpha%0A%0AMensagem+%28max+36+chars%29%3A%0A%3E+">
-  <img src="https://img.shields.io/badge/Transmitir_D--Mail-E67E22?style=for-the-badge&logo=signal&logoColor=white" alt="Transmitir D-Mail" />
-</a>
-
-<br><br>
-
-> *Atenção: O disparo de transmissões pode causar alterações retroativas no histórico de commits deste perfil devido ao efeito Reading Steiner.*
