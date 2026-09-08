@@ -3,39 +3,39 @@
 <!-- Demonstra como rodar CSS moderno, scanlines e animação        -->
 <!-- ============================================================ -->
 
-<div align="center">
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 850 180' width='100%'>
+<div style="max-width: 850px; margin: 0 auto;">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 180" width="100%">
     <defs>
-      <linearGradient id='crtGrad' x1='0%25' y1='0%25' x2='0%25' y2='100%25'>
-        <stop offset='0%25' stop-color='%23121512'/>
-        <stop offset='100%25' stop-color='%23080a08'/>
+      <linearGradient id="crtGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#121512"/>
+        <stop offset="100%" stop-color="#080a08"/>
       </linearGradient>
-      <pattern id='scanlines' width='100' height='4' patternUnits='userSpaceOnUse'>
-        <line x1='0' y1='0' x2='100' y2='0' stroke='%23000' stroke-width='1.2' opacity='0.35'/>
+      <pattern id="scanlines" width="100" height="4" patternUnits="userSpaceOnUse">
+        <line x1="0" y1="0" x2="100" y2="0" stroke="#000" stroke-width="1.2" opacity="0.35"/>
       </pattern>
     </defs>
     <style>
-      @keyframes blink { 0%25, 49%25 { opacity: 1; } 50%25, 100%25 { opacity: 0; } }
+      @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
       @keyframes phosphorGlow {
-        0%25 { text-shadow: 0 0 3px %2333ff33, 0 0 8px %2333ff3388; }
-        50%25 { text-shadow: 0 0 6px %2333ff33, 0 0 14px %2333ff33aa; }
-        100%25 { text-shadow: 0 0 3px %2333ff33, 0 0 8px %2333ff3388; }
+        0% { filter: drop-shadow(0 0 2px #39ff14); }
+        50% { filter: drop-shadow(0 0 6px #39ff14); }
+        100% { filter: drop-shadow(0 0 2px #39ff14); }
       }
-      .crt-bg { fill: url(%23crtGrad); stroke: %232d382d; stroke-width: 2; rx: 8; }
-      .term-text { font-family: 'Courier New', monospace; font-size: 14px; fill: %2339ff14; animation: phosphorGlow 3s infinite; }
-      .cursor { fill: %2339ff14; animation: blink 0.8s infinite; }
-      .accent { fill: %23ffaa00; font-weight: bold; }
+      .crt-bg { fill: url(#crtGrad); stroke: #2d382d; stroke-width: 2; rx: 8; }
+      .term-text { font-family: 'Courier New', monospace; font-size: 14px; fill: #39ff14; animation: phosphorGlow 3s infinite; }
+      .cursor { fill: #39ff14; animation: blink 0.8s infinite; }
+      .accent { fill: #ffaa00; font-weight: bold; }
     </style>
-    <rect width='100%25' height='100%25' class='crt-bg'/>
-    <rect width='100%25' height='100%25' fill='url(%23scanlines)' pointer-events='none'/>
-    
-    <text x='25' y='38' class='term-text'>IBN-5100 [ROUTINE: INITIALIZING LAB BOOTSTRAP...]</text>
-    <text x='25' y='68' class='term-text'>OPERATOR: <tspan class='accent'>LAB MEMBER 001</tspan> | SYSTEM STATUS: ONLINE</text>
-    <text x='25' y='98' class='term-text'>CURRENT DIRECTIVE: Full-stack Development &amp; Architecture</text>
-    <text x='25' y='128' class='term-text'>CONNECTED TO SERN ARCHIVE... DECRYPTION KEY ACCEPTED</text>
-    <text x='25' y='155' class='term-text'>EXECUTE: <tspan fill='%23ffffff'>./explore_worldlines.sh</tspan></text>
-    <rect x='280' y='142' width='9' height='15' class='cursor'/>
-  </svg>" alt="Terminal IBN 5100" />
+    <rect width="100%" height="100%" class="crt-bg"/>
+    <rect width="100%" height="100%" fill="url(#scanlines)" pointer-events="none"/>
+
+    <text x="25" y="38" class="term-text">IBN-5100 [ROUTINE: INITIALIZING LAB BOOTSTRAP...]</text>
+    <text x="25" y="68" class="term-text">OPERATOR: <tspan class="accent">LAB MEMBER 001</tspan> | SYSTEM STATUS: ONLINE</text>
+    <text x="25" y="98" class="term-text">CURRENT DIRECTIVE: Full-stack Development &amp; Architecture</text>
+    <text x="25" y="128" class="term-text">CONNECTED TO SERN ARCHIVE... DECRYPTION KEY ACCEPTED</text>
+    <text x="25" y="155" class="term-text">EXECUTE: <tspan fill="#ffffff">./explore_worldlines.sh</tspan></text>
+    <rect x="280" y="142" width="9" height="15" class="cursor"/>
+  </svg>
 </div>
 
 <br>

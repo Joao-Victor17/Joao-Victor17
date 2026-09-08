@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 140" width="100%">
+  <style>
+    @keyframes nixieFlicker {
+      0% { opacity: 0.95; } 50% { opacity: 0.85; } 70% { opacity: 1; } 100% { opacity: 0.92; }
+    }
+    .meter-box { fill: #1a1510; stroke: #8c531b; stroke-width: 2; rx: 6; }
+    .label { font-family: monospace; font-size: 10px; fill: #a87944; letter-spacing: 1.5px; }
+    .nixie-digits {
+      font-family: 'Courier New', monospace; font-size: 26px; font-weight: bold;
+      fill: #ff7700; text-shadow: 0 0 6px #ff5500, 0 0 12px #ff2200;
+      animation: nixieFlicker 0.15s infinite alternate;
+    }
+  </style>
+  <rect width="100%" height="100%" class="meter-box"/>
+  <text x="50%" y="32" text-anchor="middle" class="label">DIVERGENCE METER</text>
+  <rect x="15" y="45" width="230" height="55" rx="4" fill="#000" stroke="#38240f"/>
+  <text x="50%" y="83" text-anchor="middle" class="nixie-digits">1.048596%</text>
+  <text x="50%" y="122" text-anchor="middle" class="label">STATUS: STABLE</text>
+</svg>
