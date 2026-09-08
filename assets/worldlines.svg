@@ -1,76 +1,120 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 260" width="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 260" width="100%" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo4MjZkZTZhMC1mMTc3LTRkNmYtOWQyNy1iZDcxYmU1MzI5NDMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaL9M7t7VWIx7m6Q+hLwlA4EAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo4ODI2ZTY2YS03ODNkLTQzMmUtOWMzYy1kNDVmNDI5YjhkYWRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNor6emnUeGsid4b6H7JaJW/gAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggTAQ9EdDJ8n+ys9Smpk+ZHhryBk/zqaFpAkINftpARxSkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaJ7A0tAf6BrQWeLOx9p6lUMAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDFqHnjZd9Nb5liPVUAMRcX38h0Mbk0rLGg0rCutW73P2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiKZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjgyNmRlNmEwLWYxNzctNGQ2Zi05ZDI3LWJkNzFiZTUzMjk0My9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjNjNzIxN2Q4LTM0YmItNDkzYS1hNGE2LTlhNzU0MmY3MjE2YXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBMBD0R0Mnyf7Kz1KamT5keGvIGT/OpoWkCQg1+2kBHFKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggkNx6ZdHC45ouV/yRx/BB8F3csIRTBbdc55xupVnEF7qiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggGLhOV2/+4bPB0Z5yckI9Nvyjecy0m02KsQBDAhpSFoB0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQFsm9WgJJQFhYSDzJD2IaEHlSZjUssFtwqNpZHLLmPEQQ8xkJWlcVd8tzoGj8axdfjcSJjlNIqQ9YnF8mV+/Ypw=</c2pa:manifest></metadata>
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#141814"/>
       <stop offset="100%" stop-color="#0a0d0a"/>
     </linearGradient>
   </defs>
-  
+
   <style>
-    /* Estilos Básicos */
     .bg { fill: url(#bgGrad); stroke: #2d382d; stroke-width: 2; rx: 8; }
-    .tab-btn { cursor: pointer; }
-    .tab-rect { fill: #1c241c; stroke: #395239; stroke-width: 1.5; rx: 4; transition: all 0.2s ease; }
-    .tab-label { font-family: monospace; font-size: 12px; fill: #7a997a; font-weight: bold; pointer-events: none; transition: fill 0.2s ease; }
-    
-    /* Telas de Conteúdo */
-    .content-panel { opacity: 0; transition: opacity 0.25s ease-in-out; pointer-events: none; }
+    .tab-rect { fill: #1c241c; stroke: #395239; stroke-width: 1.5; rx: 4; }
+    .tab-label { font-family: monospace; font-size: 12px; fill: #7a997a; font-weight: bold; }
+
     .term-title { font-family: 'Courier New', monospace; font-size: 15px; font-weight: bold; }
     .term-desc { font-family: 'Courier New', monospace; font-size: 13px; fill: #b0cbb0; }
     .term-code { font-family: monospace; font-size: 12px; fill: #ffffff; }
 
-    /* Estado Inicial: Steins;Gate visível por padrão */
-    #content-sg { opacity: 1; }
-    #tab-sg .tab-rect { fill: #2d452d; stroke: #39ff14; }
-    #tab-sg .tab-label { fill: #39ff14; }
-
-    /* SE O MOUSE ESTIVER SOBRE ALPHA OU BETA: DESLIGA O BOTÃO STEINS;GATE */
-    #tabs-nav:has(#tab-alpha:hover) #tab-sg .tab-rect,
-    #tabs-nav:has(#tab-beta:hover) #tab-sg .tab-rect {
-      fill: #1c241c;
-      stroke: #395239;
+    /* Painéis de conteúdo: cada um visível por 6s dentro de um ciclo de 18s */
+    .content-panel {
+      opacity: 0;
+      animation: cyclePanel 18s infinite;
     }
-    #tabs-nav:has(#tab-alpha:hover) #tab-sg .tab-label,
-    #tabs-nav:has(#tab-beta:hover) #tab-sg .tab-label {
-      fill: #7a997a;
+    #content-sg   { animation-delay: 0s; }
+    #content-alpha{ animation-delay: 6s; }
+    #content-beta { animation-delay: 12s; }
+
+    @keyframes cyclePanel {
+      0%    { opacity: 0; }
+      2%    { opacity: 1; }   /* pequeno "glitch" de entrada */
+      4%    { opacity: 0.4; }
+      6%    { opacity: 1; }
+      31%   { opacity: 1; }   /* permanece visível por ~5.5s */
+      33%   { opacity: 0; }
+      100%  { opacity: 0; }
     }
 
-    /* HOVER NA ABA 1: STEINS;GATE */
-    #tab-sg:hover .tab-rect { fill: #2d452d; stroke: #39ff14; }
-    #tab-sg:hover .tab-label { fill: #39ff14; }
+    /* Abas acompanham o painel ativo */
+    .tab-sg-rect, .tab-alpha-rect, .tab-beta-rect { animation: none; }
 
-    /* HOVER NA ABA 2: ALPHA */
-    #tab-alpha:hover .tab-rect { fill: #382d1a; stroke: #ffaa00; }
-    #tab-alpha:hover .tab-label { fill: #ffaa00; }
-    #tabs-nav:has(#tab-alpha:hover) ~ #content-alpha { opacity: 1; }
-    #tabs-nav:has(#tab-alpha:hover) ~ #content-sg { opacity: 0; }
+    #tab-sg .tab-rect   { animation: tabActiveGreen 18s infinite; }
+    #tab-sg .tab-label  { animation: tabLabelGreen 18s infinite; }
 
-    /* HOVER NA ABA 3: BETA */
-    #tab-beta:hover .tab-rect { fill: #381c1c; stroke: #ff4444; }
-    #tab-beta:hover .tab-label { fill: #ff4444; }
-    #tabs-nav:has(#tab-beta:hover) ~ #content-beta { opacity: 1; }
-    #tabs-nav:has(#tab-beta:hover) ~ #content-sg { opacity: 0; }
+    #tab-alpha .tab-rect  { animation: tabActiveOrange 18s infinite; }
+    #tab-alpha .tab-label { animation: tabLabelOrange 18s infinite; }
+
+    #tab-beta .tab-rect  { animation: tabActiveRed 18s infinite; }
+    #tab-beta .tab-label { animation: tabLabelRed 18s infinite; }
+
+    @keyframes tabActiveGreen {
+      0%   { fill: #2d452d; stroke: #39ff14; }
+      32%  { fill: #2d452d; stroke: #39ff14; }
+      34%  { fill: #1c241c; stroke: #395239; }
+      100% { fill: #1c241c; stroke: #395239; }
+    }
+    @keyframes tabLabelGreen {
+      0%   { fill: #39ff14; }
+      32%  { fill: #39ff14; }
+      34%  { fill: #7a997a; }
+      100% { fill: #7a997a; }
+    }
+
+    @keyframes tabActiveOrange {
+      0%   { fill: #1c241c; stroke: #395239; }
+      33%  { fill: #1c241c; stroke: #395239; }
+      35%  { fill: #382d1a; stroke: #ffaa00; }
+      65%  { fill: #382d1a; stroke: #ffaa00; }
+      67%  { fill: #1c241c; stroke: #395239; }
+      100% { fill: #1c241c; stroke: #395239; }
+    }
+    @keyframes tabLabelOrange {
+      0%   { fill: #7a997a; }
+      33%  { fill: #7a997a; }
+      35%  { fill: #ffaa00; }
+      65%  { fill: #ffaa00; }
+      67%  { fill: #7a997a; }
+      100% { fill: #7a997a; }
+    }
+
+    @keyframes tabActiveRed {
+      0%   { fill: #1c241c; stroke: #395239; }
+      66%  { fill: #1c241c; stroke: #395239; }
+      68%  { fill: #381c1c; stroke: #ff4444; }
+      98%  { fill: #381c1c; stroke: #ff4444; }
+      100% { fill: #1c241c; stroke: #395239; }
+    }
+    @keyframes tabLabelRed {
+      0%   { fill: #7a997a; }
+      66%  { fill: #7a997a; }
+      68%  { fill: #ff4444; }
+      98%  { fill: #ff4444; }
+      100% { fill: #7a997a; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .content-panel, .tab-rect, .tab-label { animation: none !important; }
+      #content-sg { opacity: 1; }
+      #tab-sg .tab-rect { fill: #2d452d; stroke: #39ff14; }
+      #tab-sg .tab-label { fill: #39ff14; }
+    }
   </style>
 
   <!-- Fundo do Terminal -->
   <rect width="100%" height="100%" class="bg"/>
 
-  <!-- GRUPO NAVEGADOR DE ABAS -->
+  <!-- NAVBAR DE ABAS (decorativa, acompanha o ciclo automático) -->
   <g id="tabs-nav">
-    <!-- Aba 1: Steins;Gate -->
-    <g id="tab-sg" class="tab-btn">
+    <g id="tab-sg">
       <rect x="25" y="20" width="220" height="34" class="tab-rect"/>
       <text x="135" y="42" text-anchor="middle" class="tab-label">[ 1.048596% STEINS;GATE ]</text>
     </g>
 
-    <!-- Aba 2: Alpha -->
-    <g id="tab-alpha" class="tab-btn">
+    <g id="tab-alpha">
       <rect x="260" y="20" width="200" height="34" class="tab-rect"/>
       <text x="360" y="42" text-anchor="middle" class="tab-label">[ 0.571024% ALPHA ]</text>
     </g>
 
-    <!-- Aba 3: Beta -->
-    <g id="tab-beta" class="tab-btn">
+    <g id="tab-beta">
       <rect x="475" y="20" width="200" height="34" class="tab-rect"/>
       <text x="575" y="42" text-anchor="middle" class="tab-label">[ 1.130205% BETA ]</text>
     </g>
@@ -78,7 +122,7 @@
 
   <line x1="25" y1="68" x2="825" y2="68" stroke="#2d382d" stroke-width="1.5"/>
 
-  <!-- PAINEL 1: STEINS;GATE (PRODUÇÃO & ARQUITETURA) -->
+  <!-- PAINEL 1: STEINS;GATE -->
   <g id="content-sg" class="content-panel">
     <text x="35" y="105" fill="#39ff14" class="term-title">&gt; DIRETIVA ATUAL: SISTEMAS ESCALÁVEIS &amp; PRODUÇÃO</text>
     <text x="35" y="135" class="term-desc">Foco na estabilidade da linha do tempo. Microsserviços e infraestrutura distribuída.</text>
@@ -87,7 +131,7 @@
     <text x="50" y="205" class="term-code"><tspan fill="#ffaa00">INFRA &amp; EDGE:</tspan> Cloudflare Workers &amp; Pages, Vercel Serverless, Docker</text>
   </g>
 
-  <!-- PAINEL 2: ALPHA (BAIXO NÍVEL & AUTOMAÇÃO) -->
+  <!-- PAINEL 2: ALPHA -->
   <g id="content-alpha" class="content-panel">
     <text x="35" y="105" fill="#ffaa00" class="term-title">&gt; EXPERIMENTOS: PROTOCOLOS, WORKFLOWS &amp; HARDWARE</text>
     <text x="35" y="135" class="term-desc">Rotinas automatizadas de CI/CD e exploração de sistemas embarcados.</text>
@@ -96,7 +140,7 @@
     <text x="50" y="205" class="term-code"><tspan fill="#ffaa00">INTEGRAÇÕES:</tspan> Protocolos Seriais, Microcontroladores e IOT</text>
   </g>
 
-  <!-- PAINEL 3: BETA (ANALÍTICO & ALGORITMOS) -->
+  <!-- PAINEL 3: BETA -->
   <g id="content-beta" class="content-panel">
     <text x="35" y="105" fill="#ff4444" class="term-title">&gt; MODELAGEM MATEMÁTICA &amp; COMPUTAÇÃO CIENTÍFICA</text>
     <text x="35" y="135" class="term-desc">Estruturas de dados complexas, análise quantitativa e simulações analíticas.</text>
