@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" onload="console.log('mensagemmmmm')">
   <img src="./assets/terminal.svg" width="100%" alt="Terminal IBN 5100" />
 </div>
 
