@@ -31,44 +31,7 @@
 
 ### ⏱️ Seletor de Linha do Tempo (World Lines)
 
-<details name="timeline" open>
-  <summary><b>[ Linha 1.048596% - Steins;Gate (Stack & Produção) ]</b></summary>
-  <br>
-  <blockquote>
-    <b>Diretiva Atual:</b> Construção de aplicações modernas, APIs desacopladas e microsserviços de alta disponibilidade.
-  </blockquote>
-  <ul>
-    <li><b>Backend:</b> Node.js, Python, Serverless Functions</li>
-    <li><b>Cloud / Edge:</b> Vercel, Cloudflare Workers & Pages</li>
-    <li><b>Bancos de Dados:</b> PostgreSQL, Redis</li>
-  </ul>
-</details>
-
-<details name="timeline">
-  <summary><b>[ Linha 0.571024% - Alpha (Sistemas & Baixo Nível) ]</b></summary>
-  <br>
-  <blockquote>
-    <b>Ambiente Experimental:</b> Onde scripts de automação, manipulação direta de hardware e protocolos seriais residem.
-  </blockquote>
-  <ul>
-    <li>Automação de workflows e rotinas de deploy</li>
-    <li>Comunicação serial, microcontroladores e dispositivos embarcados</li>
-    <li>Otimização de pipelines no GitHub Actions</li>
-  </ul>
-</details>
-
-<details name="timeline">
-  <summary><b>[ Linha 1.130205% - Beta (Algoritmos & Computação Analítica) ]</b></summary>
-  <br>
-  <blockquote>
-    <b>Ambiente Teórico:</b> Foco em análise matemática, modelagem e resolução algorítmica.
-  </blockquote>
-  <ul>
-    <li>Simulações estatísticas e processamento de dados brutos</li>
-    <li>Modelagem física e computação científica</li>
-    <li>Estruturas de dados complexas e otimização de consultas</li>
-  </ul>
-</details>
+<img src="./assets/worldlines.svg" width="100%" alt="World Lines Terminal" />
 
 ---
 
