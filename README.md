@@ -1,31 +1,61 @@
-## Oi! Me chamo João Victor!
-<img align='right' src="https://i.gifer.com/24S2.gif" width="230" />
-<a href="https://www.linkedin.com/in/cupolo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:dorea.cupolo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/dorea_cupolo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<div align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Terminal" />
+</div>
 
-Com a carreira profissional em contrução, busco seguir carreira acadêmica em Matemática e Física, áreas pelas quais tenho grande interesse e paixão em pesquisa científica e suas aplicações em problemas complexos de ciência e tecnologia. 
+<br>
 
-Ademais, deslumbro-me com a área de automação e controle, especialmente no seguimento de eletrônica. Para tanto, direciono meus interesses em exatas para trazer soluções neste âmbito. 
+### 👨‍💻 Sobre
 
-### Conquistas:
-- ⚔️ Aspirante a Oficial da Reserva do Exército Brasileiro | NPOR/24
-- 🖥️ Estagiário de Suporte Técnico na Polisystem | Mai/25 - hoje 
-- ⏳ Engenharia de computação (UNIJORGE) | Semestre: 7/10
-- ⏳ Automação Industrial (IFBA) | Semestre: 4/4
+Engenheiro de Automação em formação, com base técnica dupla em Automação Industrial (IFBA) e Engenharia de Computação (Unijorge). Atuo na interseção entre hardware, controle e software.
 
-### 🛠️ Principais Competências e Interesses
-- ✔ Suporte técnico em computadores
-- ✔ Conhecimentos práticos em automação industrial (sensores, CLPs, sistemas elétricos e robótica)
-- ✔ Programação e fundamentos de algoritmos:
-  - C/C++;
-  - Rust;
-  - Python;
-  - NestJS;
-  - React;
-- ✔ Estudo independente de Matemática e Física
-
-<img src="https://github-readme-stats.vercel.app/api?username=Joao-Victor17&show_icons=true&theme=dark" width="515px"/>
+Experiência com microcontroladores (Arduino, ESP32), programação embarcada em C/C++ e Rust, protocolos industriais (HART, FieldBus, Modbus) e infraestrutura virtualizada em produção.
 
 ---
-> Dimidium facti qui coepit habet: sapere aude
+
+### 💼 Experiências
+
+**Estagiário — Tribunal de Justiça da Bahia** `Ago/2026 – Atual`
+Desenvolvimento de soluções com a plataforma Microsoft Power: automação de fluxos com **Power Automate**, criação de aplicativos internos com **Power Apps** e construção de dashboards analíticos com **Power BI**.
+
+**Estagiário de Suporte — Provide IT · Wall Street Empresarial** `Dez/2025 – Atual`
+Administração de infraestrutura virtualizada (VMware, Hyper-V) em ambiente multi-cliente. Monitoramento proativo de servidores Windows Server e SQL Server em Azure. Rotinas de backup e recuperação com Veeam, ArcServe e Backup Exec.
+
+**Gestor do Núcleo de Inovação — NITE · Unijorge** `Atual`
+Administração de cluster Proxmox com 3 nós (alta disponibilidade, failover, VLANs). Coordenação de equipe em projetos para a universidade e parceiros externos, incluindo o sistema **SOS Sotero** em produção.
+
+**Estagiário de Suporte Técnico — Polisystem · Hangar Business Park** `Mai/2025 – Nov/2025`
+Suporte em ambientes Windows e redes locais, com diagnóstico sistemático de falhas de hardware, software e conectividade em ambiente de produção.
+
+**Aluno-a-Oficial — Exército Brasileiro · 19º Batalhão de Caçadores** `Fev/2024 – Dez/2024`
+Formação militar de dez meses, consolidando disciplina operacional, responsabilidade técnica e capacidade de atuação sob pressão.
+
+---
+
+### 🛠️ Tecnologias
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+</div>
+
+---
+
+### 🖥️ Stack & Áreas de Atuação
+
+<img src="./assets/worldlines.svg" width="100%" alt="Stack Overview" />
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joao-Victor17&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&locale=pt-br" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Victor17&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" width="49%" alt="Top Langs" />
+</div>
