@@ -22,11 +22,11 @@
   </style>
   <rect width="100%" height="100%" class="crt-bg"/>
   <rect width="100%" height="100%" fill="url(#scanlines)" pointer-events="none"/>
-  
-  <text x="25" y="38" class="term-text">IBN-5100 [ROUTINE: INITIALIZING LAB BOOTSTRAP...]</text>
-  <text x="25" y="68" class="term-text">OPERATOR: <tspan class="accent">LAB MEMBER 001</tspan> | SYSTEM STATUS: ONLINE</text>
-  <text x="25" y="98" class="term-text">CURRENT DIRECTIVE: Full-stack Development &amp; Architecture</text>
-  <text x="25" y="128" class="term-text">CONNECTED TO SERN ARCHIVE... DECRYPTION KEY ACCEPTED</text>
-  <text x="25" y="155" class="term-text">EXECUTE: <tspan fill="#ffffff">./explore_worldlines.sh</tspan></text>
-  <rect x="280" y="142" width="9" height="15" class="cursor"/>
+
+  <text x="25" y="38" class="term-text">$ whoami</text>
+  <text x="25" y="68" class="term-text">OPERATOR: <tspan class="accent">João Victor Dórea Cupolo</tspan> | Salvador, BA — Brasil</text>
+  <text x="25" y="98" class="term-text">ROLE: Full-Stack (Rust &amp; TS) · Infraestrutura · Automação Industrial</text>
+  <text x="25" y="128" class="term-text">FOCUS: Hardware ↔ Controle ↔ Software</text>
+  <text x="25" y="155" class="term-text">$ <tspan fill="#ffffff">./explore.sh</tspan></text>
+  <rect x="120" y="142" width="9" height="15" class="cursor"/>
 </svg>
